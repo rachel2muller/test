@@ -1,3 +1,3 @@
 # test
-Thank you for choosing git. the sund is shining. snow go away.
+Thank you for choosing git. the sun is shining. snow go away. the moon is yellow.
 
